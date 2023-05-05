@@ -30,4 +30,4 @@
 
 <p>This project has allowed me to develop a strong understanding of HTML and CSS, and their use in creating a responsive and visually appealing website.</p>
 
-<p>To view the website, please visit: <a href="https://ulrich-jato.github.io/portfolio/omnifood/index.html">omnifood project</a></p>
+<p>To view the website, please visit: <a href="https://ulrich-jato.github.io/portfolio/omnifood/index.html" target="_blank">omnifood project</a></p>
